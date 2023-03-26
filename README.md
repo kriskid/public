@@ -1,2 +1,1 @@
-# public
-My public pages
+# web.github.io
